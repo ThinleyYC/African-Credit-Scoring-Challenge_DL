@@ -1,4 +1,5 @@
 # African-Credit-Scoring-Challenge_DL
 Kaggle Competition- African Credit Scoring Challenge
-1. Matplotlib was used for visualiation of plots
-2. 
+1. Matplotlib and Seaborn was used for visualization of plots
+2. Dataset was preprocessed and the output was a csv file with predictions made
+3. Ranked 756 in the final Submission
